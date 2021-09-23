@@ -1,0 +1,3 @@
+I. Install Nodejs & npm
+ - step 1: sudo npm install -g n
+ - step 2: sudo n XXXX (e.g: sudo n 12.13.0)
